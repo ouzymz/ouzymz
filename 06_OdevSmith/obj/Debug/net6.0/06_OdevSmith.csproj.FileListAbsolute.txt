@@ -1,0 +1,15 @@
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Odevler\06_OdevSmith\obj\Debug\net6.0\06_OdevSmith.csproj.AssemblyReference.cache
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Odevler\06_OdevSmith\obj\Debug\net6.0\06_OdevSmith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Odevler\06_OdevSmith\obj\Debug\net6.0\06_OdevSmith.AssemblyInfoInputs.cache
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Odevler\06_OdevSmith\obj\Debug\net6.0\06_OdevSmith.AssemblyInfo.cs
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Odevler\06_OdevSmith\obj\Debug\net6.0\06_OdevSmith.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Odevler\06_OdevSmith\bin\Debug\net6.0\06_OdevSmith.exe
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Odevler\06_OdevSmith\bin\Debug\net6.0\06_OdevSmith.deps.json
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Odevler\06_OdevSmith\bin\Debug\net6.0\06_OdevSmith.runtimeconfig.json
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Odevler\06_OdevSmith\bin\Debug\net6.0\06_OdevSmith.dll
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Odevler\06_OdevSmith\bin\Debug\net6.0\06_OdevSmith.pdb
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Odevler\06_OdevSmith\obj\Debug\net6.0\06_OdevSmith.dll
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Odevler\06_OdevSmith\obj\Debug\net6.0\refint\06_OdevSmith.dll
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Odevler\06_OdevSmith\obj\Debug\net6.0\06_OdevSmith.pdb
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Odevler\06_OdevSmith\obj\Debug\net6.0\06_OdevSmith.genruntimeconfig.cache
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Odevler\06_OdevSmith\obj\Debug\net6.0\ref\06_OdevSmith.dll
