@@ -1,5 +1,7 @@
+![](https://komarev.com/ghpvc/?username=ouzymz&color=blue) 
+
 # <p align="center">👋 Hi, I’m @ouzymz</p>
-![](https://komarev.com/ghpvc/?username=ouzymz&color=blue)
+
 <p align="center"> A full stack developer 👀</p>
 <p align="center"> I’m currently learning 🌱</p>
 
