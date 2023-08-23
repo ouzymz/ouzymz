@@ -15,8 +15,8 @@
     <img src="https://skillicons.dev/icons?i=ts,nodejs,angular,reactivex,docker,cs,dotnet,postgres,mongodb,postman,github" />
   </a>
 </p>
-
+<p align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ouzymz&theme=tokyonight)](https://git.io/streak-stats)
-
+</p>
 
 
