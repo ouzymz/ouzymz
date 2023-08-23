@@ -3,7 +3,7 @@
 # <p align="center">👋 Hi, I’m @ouzymz</p>
 
 <p align="center"> A full stack developer 👀</p>
-<p align="center"> I’m currently learning 🌱</p>
+<p align="center"> Working full-time🌱</p>
 
 
 ## 📫 How to reach me
