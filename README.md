@@ -2,9 +2,6 @@
 
 # <p align="center">👋 Hi, I’m @ouzymz</p>
 
-<p align="center"> A full stack developer 👀</p>
-<p align="center"> Working full-time🌱</p>
-
 
 ## 📫 How to reach me
 - <a style="color=red;" href="https://www.linkedin.com/in/ouzymz/" rel="nofollow"><p style="color:red;"> https://www.linkedin.com/in/ouzymz/</p></a>
